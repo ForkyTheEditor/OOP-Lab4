@@ -34,3 +34,9 @@
 *.db
 *.ipch
 .vs/OOP-Lab4/v16/.suo
+*.log
+*.ilk
+*.pdb
+*.tlog
+Debug/OOP-Lab4.vcxproj.FileListAbsolute.txt
+*.idb
