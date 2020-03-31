@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.opendb
+*.db
+*.ipch
+.vs/OOP-Lab4/v16/.suo

@@ -145,6 +145,13 @@ void ApothekeUI::startProgram() {
 				break;
 
 			}
+		case 7:
+			mainRepo.undo();
+			break;
+		case 8:
+			mainRepo.redo();
+			break;
+
 
 		}
 
